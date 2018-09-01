@@ -1,0 +1,2 @@
+# pp
+pithon lerning
